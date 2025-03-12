@@ -2,9 +2,12 @@
 🚀 MERN Stack Developer  
 
 🌱 Currently learning **Next.js & TypeScript**  
+
 🔭 Working on **exciting web projects**  
+
 📫 Reach me at:  **mdfaraz9901@gmail.com**
-⚡ Fun fact: I love coding & tea   
+
+⚡ Fun fact: I love coding & tea  
 
 ---
 
@@ -25,7 +28,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faraz9901&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faraz9901)
 
 
 
