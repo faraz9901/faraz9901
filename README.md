@@ -3,7 +3,7 @@
 
 🌱 Currently learning **Next.js & TypeScript**  
 🔭 Working on **exciting web projects**  
-📫 Reach me at:  mdfaraz9901@gmail.com**
+📫 Reach me at:  **mdfaraz9901@gmail.com**
 ⚡ Fun fact: I love coding & tea   
 
 ---
