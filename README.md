@@ -17,5 +17,9 @@
 
 ---
 
+## 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faraz9901&layout=compact&theme=radical)
+
+
 
 
