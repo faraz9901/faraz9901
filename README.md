@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Mohammed Faraz!
-🚀 MERN Stack Developer  
+🚀 Web Developer  
 
 🌱 Currently learning **Next.js & TypeScript**  
 
